@@ -56,7 +56,7 @@ Messages in Kafka are retained for a configurable retention duration. Once the r
 
 ## Conclusion
 
-Apache Kafka is an extremely popular distributed, highly scalable, fault-tolerant event streaming platform used in modern applications. The streaming nature of user data supported by its high throughput and low latency makes it fit for many use cases like real-time data pipelines, event-driven architectures, log aggregation. Kafka is a messaging platform where producers and consumers are decoupled and it is engineered for efficient communication in microservices based architectures.
+Apache Kafka is a popular distributed, highly scalable, fault-tolerant event streaming platform used in modern applications. The streaming nature of user data supported by its high throughput and low latency makes it fit for many use cases like real-time data pipelines, event-driven architectures, log aggregation. Kafka is a messaging platform where producers and consumers are decoupled and it is engineered for efficient communication in microservices based architectures.
 
 ## References
 
